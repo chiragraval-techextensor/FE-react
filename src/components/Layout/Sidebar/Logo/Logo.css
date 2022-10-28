@@ -1,0 +1,27 @@
+@font-face {font-family: "PingFang SC"; src: url("//db.onlinewebfonts.com/t/422ea15a93c7f520a821eabfa413dc1a.eot"); src: url("//db.onlinewebfonts.com/t/422ea15a93c7f520a821eabfa413dc1a.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/422ea15a93c7f520a821eabfa413dc1a.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/422ea15a93c7f520a821eabfa413dc1a.woff") format("woff"), url("//db.onlinewebfonts.com/t/422ea15a93c7f520a821eabfa413dc1a.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/422ea15a93c7f520a821eabfa413dc1a.svg#PingFang SC") format("svg"); }
+
+.Logo{
+  width: 100%;
+  padding: 24px;
+
+}
+
+.Logo p{
+  padding-bottom: 25px;
+  border-bottom: 3px solid #6b6969;
+  font-size: 23px;
+  text-align: center;
+}
+
+
+.Logo p span{
+  margin-left: 20px;
+  /* font-family: PingFangSC; */
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.56px;
+  color: #6b6969;
+}
+

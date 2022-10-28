@@ -1,0 +1,17 @@
+.customNavigation{
+  background: none;
+  padding: 24px;
+  width: 80%;
+}
+
+.customNavigation .ant-menu-vertical .ant-menu-item::after, .customNavigation .ant-menu-vertical-left .ant-menu-item::after, .customNavigation .ant-menu-vertical-right .ant-menu-item::after, .ant-menu-inline .ant-menu-item::after {
+  border-right: none !important;
+}
+
+.customNavigation .ant-menu-submenu-selected, .customNavigation .ant-menu-submenu-open, .customNavigation .ant-menu-item-selected, .customNavigation .ant-menu-item-selected {
+  border-radius: 20.5px;
+  border-right: 0;
+  color: grey;
+  border-right: none !important;
+  background-color: #ffffff !important;
+}

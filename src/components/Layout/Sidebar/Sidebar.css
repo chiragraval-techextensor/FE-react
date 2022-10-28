@@ -1,0 +1,9 @@
+.sidebar{
+  width: 90%;
+  height: 1024px;
+  background-image: linear-gradient(178deg, rgba(67, 114, 212, 0.13) 11%, #ffffff 110%);
+}
+
+.sidebarItems{
+  width: 100%;
+}
